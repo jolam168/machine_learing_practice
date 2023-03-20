@@ -15,7 +15,6 @@ To run this project, you need to install the following Python libraries:
 
 You can install them using the following command:
 
-Copy code
 
 `pip install gradio Pillow torch torchvision`
 
@@ -24,7 +23,6 @@ Usage
 
 To run the Gradio interface, simply run the `text_to_image_gradio.py` file using Python:
 
-Copy code
 
 `python text_to_image_gradio.py`
 
